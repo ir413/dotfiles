@@ -1,2 +1,3 @@
-# dotfiles
-Dotfiles Something Something
+# Configuration Files (dotfiles)
+
+Repo for synching dotfiles across machines
