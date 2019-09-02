@@ -48,8 +48,11 @@ set modelines=0                 " disable modelines
 " Additional settings
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-" Pathogen.
-execute pathogen#infect()
+" Splits navigation.
+noremap <C-l> <C-w>l
+noremap <C-h> <C-w>h
+noremap <C-j> <C-w>j
+noremap <C-k> <C-w>k
 
 " Line numbers.
 set nu
