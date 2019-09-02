@@ -1,6 +1,6 @@
 # Configuration files
 
-Repo for keeping track of and synching personal dotfiles across machines.
+Repo for managing personal dotfiles.
 
 ## Sources
 

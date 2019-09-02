@@ -1,4 +1,3 @@
-
 # Vi bindings.
 set -o vi
 
