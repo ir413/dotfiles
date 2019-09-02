@@ -1,9 +1,9 @@
-# Configuration files
+# Dotfiles
 
-Repo for managing personal dotfiles.
+Repo for managing personal configuration files.
 
 ## Sources
 
-Dotfiles are in part derived from:
+Dotfiles are derived from:
 
 - [Max Wang](https://github.com/mxw), [mxw/dotfiles](https://github.com/mxw/dotfiles)
