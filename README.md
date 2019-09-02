@@ -1,9 +1,9 @@
 # Configuration files
 
-Repo for synching dotfiles across machines
+Repo for keeping track of and synching personal dotfiles across machines.
 
 ## Sources
 
-Configuration files are in part derived from
+Dotfiles are in part derived from:
 
-- [Max Wang](https://github.com/mxw), [mxw/dotfiles](https://github.com/mxw/dotfiles), general vim settings
+- [Max Wang](https://github.com/mxw), [mxw/dotfiles](https://github.com/mxw/dotfiles)
