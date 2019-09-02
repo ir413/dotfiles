@@ -15,8 +15,7 @@ function symlink {
   local from=$1
   local from_p="$(pwd)/$from"
   local to=$2
-  #local to_p="$HOME/$to"
-  local to_p="/tmp/$to"
+  local to_p="$HOME/$to"
 
   if [ ! -e "$from_p" ]; then
     printf "Error: $from_p does not exist\n"
