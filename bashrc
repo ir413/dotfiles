@@ -1,6 +1,10 @@
 # Vi bindings
 set -o vi
 
+# Editor
+export EDITOR=vim
+export VISUAL=vim
+
 # Ignore history duplicates
 export HISTCONTROL=ignoredups:erasedups
 
