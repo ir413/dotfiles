@@ -45,7 +45,7 @@ function symlink_dot {
 }
 
 # Dotfiles to symlink
-symlink_dot "bashrc"
+#symlink_dot "bashrc"
 symlink_dot "bash_profile"
 symlink_dot "inputrc"
 symlink_dot "vimrc"
