@@ -17,3 +17,6 @@ export HISTFILESIZE=100000
 
 # Save and reload history after each command
 export PROMPT_COMMAND="history -a; history -c; history -r; $PROMPT_COMMAND"
+
+# Silence bash shell warning on macOS
+export BASH_SILENCE_DEPRECATION_WARNING=1
